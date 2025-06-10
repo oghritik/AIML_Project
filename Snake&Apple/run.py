@@ -2,7 +2,7 @@ import argparse
 
 from snake.game import Game, GameConf, GameMode
 
-
+# it is a main function 
 def main():
     dict_solver = {
         "greedy": "GreedySolver",
